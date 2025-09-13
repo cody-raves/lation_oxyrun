@@ -1,3 +1,4 @@
+--main/client/client.lua
 local ox_target = exports.ox_target
 local startOxyRun = lib.points.new(Config.StartOxyRunLocation, Config.StartOxyRunPedRadius)
 local missionActive = false
