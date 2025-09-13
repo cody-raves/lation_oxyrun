@@ -1,3 +1,4 @@
+--main/server/server.lua
 local ox_inventory = exports.ox_inventory
 local discordWebhook = Config.WebhookLink
 local discordName = Config.WebhookName
